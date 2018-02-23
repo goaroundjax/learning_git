@@ -6,6 +6,9 @@ This is subtitle 1
 This is subtitle 2
 ## Subtitle 3
 This is subtitle 3
+## How to Contribute :
+
+Please fork this repository and then issue Pull Requests for Review.
 
 ## Added a new title for 2nd commit
 
