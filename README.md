@@ -1,4 +1,4 @@
-# Title changed
+# Title changed (c) 2018 GoAround
 This is a test repo for learning.
 ## Subtitle 1
 This is subtitle 1
